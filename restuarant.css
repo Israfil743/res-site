@@ -1,6 +1,6 @@
 html{
     background-color: rgba(61, 70, 70, 0.575);
-    background-image: url(img/background-adare-restaurant.jpg);
+    background-image:(img/background-adare-restaurant.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
